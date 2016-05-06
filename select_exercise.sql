@@ -6,7 +6,7 @@ SELECT name AS "albums by pink floyd"
 FROM albums
 WHERE artist = "Pink Floyd";
 
-SELECT release_date AS "year album was released by Michael Jackson"
+SELECT release_date AS "year Thriller was released by Michael Jackson"
 FROM albums
 WHERE name = "Thriller";
 
@@ -22,6 +22,6 @@ SELECT name AS "less than 20 million sales"
 FROM albums
 WHERE sales <= 20;
 
-SELECT name AS "all rock genres"
+SELECT name AS "all hard rock genres"
 FROM albums
-WHERE genre = "rock";
+WHERE genre = "Hard Rock";
