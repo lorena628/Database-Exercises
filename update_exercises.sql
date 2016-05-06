@@ -10,10 +10,6 @@ WHERE release_date <= 1980;
 SELECT name AS 'all albums by michael Jackson'
 FROM albums
 WHERE artist = 'Michael Jackson';
-
-
-
-
 -- changes to be updated----------------------------------
 
 
@@ -40,4 +36,6 @@ SET artist = 'Peter Jackson'
 WHERE artist = 'Michael Jackson';
 SELECT artist AS 'Michael Jackson\'s name to be changed to Peter Jackson'
 FROM albums;
+
+SELECT * FROM albums;
 
