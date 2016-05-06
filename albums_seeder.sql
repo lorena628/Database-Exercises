@@ -9,5 +9,6 @@ VALUES ('Michael Jackson', 'Thriller', 1982, 48.1, 'Pop, Rock ,R&B'),
         ('Eagles', 'Their Greatest Hits(1971-1975)', 1976, 42, 'Soft Rock'),
         ('Bee Gees', 'Saturday Night Fever', 1977, 40, 'Disco'),
         ('Fleetwood Mac', 'Rumours', 1977, 40, 'Soft Rock'),
-        ('Shania Twain', 'Come on Over', 1977, 39, 'Country, Pop'),
+        ('Shania Twain', 'Come on Over', 1997, 39, 'Country, Pop'),
         ('Led Zepplin', 'Led Zepplin IV', 1971, 37, 'Hard Rock');
+SELECT * FROM albums;
