@@ -1,5 +1,5 @@
 USE codeup_test_db;
-SELECT * FROM albums;
+-- SELECT * FROM albums;
 -- SELECT "Hello";
 
 SELECT name AS "albums by pink floyd" 
