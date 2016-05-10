@@ -11,4 +11,5 @@ VALUES ('Michael Jackson', 'Thriller', 1982, 48.1, 'Pop, Rock ,R&B'),
         ('Fleetwood Mac', 'Rumours', 1977, 40, 'Soft Rock'),
         ('Shania Twain', 'Come on Over', 1997, 39, 'Country, Pop'),
         ('Led Zepplin', 'Led Zepplin IV', 1971, 37, 'Hard Rock');
+
 SELECT * FROM albums;
